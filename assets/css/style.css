@@ -1153,7 +1153,7 @@ backdrop-filter: blur(4px);
     left: 0;
     width: 1366 px;
     height: 1060px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background: linear-gradient(180deg, #030303 0%, rgba(3, 3, 3, 0) 71.84%);
 }
 .bgimg-b img{
     position: absolute;
